@@ -1,4 +1,5 @@
-![superllama](https://user-images.githubusercontent.com/3331628/76296195-360d3480-628c-11ea-9817-34a349413a69.jpg)
+![superllamatitle](https://user-images.githubusercontent.com/3331628/76296892-4d98ed00-628d-11ea-9e16-3c235828f693.jpg)
+
 Super Llama
 ===========
 Authors: Heather Martin & Jacob Bowman
