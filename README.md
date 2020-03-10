@@ -4,7 +4,7 @@ Super Llama
 ===========
 Authors: Heather Martin & Jacob Bowman
 
-To play the game, open superllama_code\SUPERLLAMA.exe
+[Play the game!](https://github.com/remmyrcade/SuperLlama/releases)
 
 The dev c++ project file is superllama_code\superllama.dev
 
