@@ -1,4 +1,4 @@
-super-llama
+Super Llama
 ===========
 Authors: Heather Martin & Jacob Bowman
 
