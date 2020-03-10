@@ -5,5 +5,3 @@ Super Llama
 [Play the game!](https://github.com/remmyrcade/SuperLlama/releases)
 
 The dev c++ project file is superllama_code\superllama.dev
-
-This is an old project and one of the first games I made back in college, beware, the code will not be pretty...
