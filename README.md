@@ -2,8 +2,6 @@
 
 Super Llama
 ===========
-Authors: Heather Martin & Jacob Bowman
-
 [Play the game!](https://github.com/remmyrcade/SuperLlama/releases)
 
 The dev c++ project file is superllama_code\superllama.dev
