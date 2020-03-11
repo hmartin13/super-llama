@@ -4,4 +4,4 @@ Super Llama
 ===========
 [Play the game!](https://github.com/remmyrcade/SuperLlama/releases)
 
-The dev c++ project file is superllama_code\superllama.dev
+This project was created in [Dev-C++](https://www.bloodshed.net/dev/) using the [Allegro](https://liballeg.org/) game programming library.
